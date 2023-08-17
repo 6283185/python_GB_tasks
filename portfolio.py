@@ -25,7 +25,7 @@ def get_most_profitable_stock(stocks: dict, prices: dict) -> str:
 
     for stock, quantity in stocks.items():
         initial_value = prices[stock] * quantity
-        current_value = prices_current[stock] * quantity  # Use prices_fresh instead of prices
+        current_value = prices_current[stock] * quantity
         profit = ((current_value - initial_value) / initial_value) * 100
 
         if profit > max_profit:
