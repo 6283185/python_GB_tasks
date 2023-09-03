@@ -1,0 +1,7682 @@
+[
+    {
+        "name": "main.py",
+        "parent": "python_learn",
+        "type": "file",
+        "size": 73
+    },
+    {
+        "name": ".idea",
+        "parent": "python_learn",
+        "type": "directory",
+        "size": 4869
+    },
+    {
+        "name": "venv",
+        "parent": "python_learn",
+        "type": "directory",
+        "size": 15056105
+    },
+    {
+        "name": ".gitignore",
+        "parent": ".idea",
+        "type": "file",
+        "size": 214
+    },
+    {
+        "name": "misc.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 203
+    },
+    {
+        "name": "modules.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 283
+    },
+    {
+        "name": "python_learn.iml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 361
+    },
+    {
+        "name": "workspace.xml",
+        "parent": ".idea",
+        "type": "file",
+        "size": 3634
+    },
+    {
+        "name": "inspectionProfiles",
+        "parent": ".idea",
+        "type": "directory",
+        "size": 174
+    },
+    {
+        "name": "profiles_settings.xml",
+        "parent": "inspectionProfiles",
+        "type": "file",
+        "size": 174
+    },
+    {
+        "name": "pyvenv.cfg",
+        "parent": "venv",
+        "type": "file",
+        "size": 116
+    },
+    {
+        "name": "Include",
+        "parent": "venv",
+        "type": "directory",
+        "size": 0
+    },
+    {
+        "name": "Lib",
+        "parent": "venv",
+        "type": "directory",
+        "size": 13628337
+    },
+    {
+        "name": "Scripts",
+        "parent": "venv",
+        "type": "directory",
+        "size": 1427652
+    },
+    {
+        "name": "site-packages",
+        "parent": "Lib",
+        "type": "directory",
+        "size": 13628337
+    },
+    {
+        "name": "distutils-precedence.pth",
+        "parent": "site-packages",
+        "type": "file",
+        "size": 152
+    },
+    {
+        "name": "pip",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 9114373
+    },
+    {
+        "name": "pip-21.3.1.dist-info",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 69044
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 871064
+    },
+    {
+        "name": "setuptools",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 3532849
+    },
+    {
+        "name": "setuptools-59.1.0.dist-info",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 31844
+    },
+    {
+        "name": "_distutils_hack",
+        "parent": "site-packages",
+        "type": "directory",
+        "size": 9011
+    },
+    {
+        "name": "py.typed",
+        "parent": "pip",
+        "type": "file",
+        "size": 286
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pip",
+        "type": "file",
+        "size": 357
+    },
+    {
+        "name": "__main__.py",
+        "parent": "pip",
+        "type": "file",
+        "size": 1198
+    },
+    {
+        "name": "_internal",
+        "parent": "pip",
+        "type": "directory",
+        "size": 1739729
+    },
+    {
+        "name": "_vendor",
+        "parent": "pip",
+        "type": "directory",
+        "size": 7371651
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pip",
+        "type": "directory",
+        "size": 1152
+    },
+    {
+        "name": "build_env.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 9950
+    },
+    {
+        "name": "cache.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 9441
+    },
+    {
+        "name": "configuration.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 13153
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 12762
+    },
+    {
+        "name": "main.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 340
+    },
+    {
+        "name": "pyproject.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 7215
+    },
+    {
+        "name": "self_outdated_check.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 6393
+    },
+    {
+        "name": "wheel_builder.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 12247
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_internal",
+        "type": "file",
+        "size": 573
+    },
+    {
+        "name": "cli",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 163657
+    },
+    {
+        "name": "commands",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 202868
+    },
+    {
+        "name": "distributions",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 19565
+    },
+    {
+        "name": "index",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 111725
+    },
+    {
+        "name": "locations",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 52741
+    },
+    {
+        "name": "metadata",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 38782
+    },
+    {
+        "name": "models",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 71947
+    },
+    {
+        "name": "network",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 88998
+    },
+    {
+        "name": "operations",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 142134
+    },
+    {
+        "name": "req",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 183445
+    },
+    {
+        "name": "resolution",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 188603
+    },
+    {
+        "name": "utils",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 229307
+    },
+    {
+        "name": "vcs",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 110225
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_internal",
+        "type": "directory",
+        "size": 63658
+    },
+    {
+        "name": "autocompletion.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 6399
+    },
+    {
+        "name": "base_command.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 7790
+    },
+    {
+        "name": "cmdoptions.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 28391
+    },
+    {
+        "name": "command_context.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 760
+    },
+    {
+        "name": "main.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 2472
+    },
+    {
+        "name": "main_parser.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 2614
+    },
+    {
+        "name": "parser.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 10788
+    },
+    {
+        "name": "progress_bars.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 8300
+    },
+    {
+        "name": "req_command.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 17097
+    },
+    {
+        "name": "spinners.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 5076
+    },
+    {
+        "name": "status_codes.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 116
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 132
+    },
+    {
+        "name": "__pycache__",
+        "parent": "cli",
+        "type": "directory",
+        "size": 73722
+    },
+    {
+        "name": "autocompletion.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5096
+    },
+    {
+        "name": "base_command.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6102
+    },
+    {
+        "name": "cmdoptions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22532
+    },
+    {
+        "name": "command_context.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1254
+    },
+    {
+        "name": "main.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1329
+    },
+    {
+        "name": "main_parser.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2126
+    },
+    {
+        "name": "parser.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9910
+    },
+    {
+        "name": "progress_bars.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7586
+    },
+    {
+        "name": "req_command.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12321
+    },
+    {
+        "name": "spinners.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4909
+    },
+    {
+        "name": "status_codes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 318
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 239
+    },
+    {
+        "name": "cache.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 7524
+    },
+    {
+        "name": "check.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 1685
+    },
+    {
+        "name": "completion.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 2958
+    },
+    {
+        "name": "configuration.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 8944
+    },
+    {
+        "name": "debug.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 6629
+    },
+    {
+        "name": "download.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 4904
+    },
+    {
+        "name": "freeze.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 2951
+    },
+    {
+        "name": "hash.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 1703
+    },
+    {
+        "name": "help.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 1132
+    },
+    {
+        "name": "index.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 4762
+    },
+    {
+        "name": "install.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 27851
+    },
+    {
+        "name": "list.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 12203
+    },
+    {
+        "name": "search.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 5697
+    },
+    {
+        "name": "show.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 8064
+    },
+    {
+        "name": "uninstall.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 3526
+    },
+    {
+        "name": "wheel.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 6168
+    },
+    {
+        "name": "__init__.py",
+        "parent": "commands",
+        "type": "file",
+        "size": 3736
+    },
+    {
+        "name": "__pycache__",
+        "parent": "commands",
+        "type": "directory",
+        "size": 92431
+    },
+    {
+        "name": "cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6143
+    },
+    {
+        "name": "check.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1532
+    },
+    {
+        "name": "completion.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3105
+    },
+    {
+        "name": "configuration.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8286
+    },
+    {
+        "name": "debug.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6621
+    },
+    {
+        "name": "download.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3927
+    },
+    {
+        "name": "freeze.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2602
+    },
+    {
+        "name": "hash.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2098
+    },
+    {
+        "name": "help.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1270
+    },
+    {
+        "name": "index.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4486
+    },
+    {
+        "name": "install.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 17650
+    },
+    {
+        "name": "list.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10114
+    },
+    {
+        "name": "search.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5288
+    },
+    {
+        "name": "show.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8433
+    },
+    {
+        "name": "uninstall.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3066
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4794
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3016
+    },
+    {
+        "name": "base.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 1172
+    },
+    {
+        "name": "installed.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 767
+    },
+    {
+        "name": "sdist.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 5598
+    },
+    {
+        "name": "wheel.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 1115
+    },
+    {
+        "name": "__init__.py",
+        "parent": "distributions",
+        "type": "file",
+        "size": 858
+    },
+    {
+        "name": "__pycache__",
+        "parent": "distributions",
+        "type": "directory",
+        "size": 10055
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1837
+    },
+    {
+        "name": "installed.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1284
+    },
+    {
+        "name": "sdist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4610
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1562
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 762
+    },
+    {
+        "name": "collector.py",
+        "parent": "index",
+        "type": "file",
+        "size": 17534
+    },
+    {
+        "name": "package_finder.py",
+        "parent": "index",
+        "type": "file",
+        "size": 36344
+    },
+    {
+        "name": "sources.py",
+        "parent": "index",
+        "type": "file",
+        "size": 6557
+    },
+    {
+        "name": "__init__.py",
+        "parent": "index",
+        "type": "file",
+        "size": 30
+    },
+    {
+        "name": "__pycache__",
+        "parent": "index",
+        "type": "directory",
+        "size": 51260
+    },
+    {
+        "name": "collector.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15847
+    },
+    {
+        "name": "package_finder.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 28062
+    },
+    {
+        "name": "sources.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7158
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 193
+    },
+    {
+        "name": "base.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 1579
+    },
+    {
+        "name": "_distutils.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 5871
+    },
+    {
+        "name": "_sysconfig.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 7918
+    },
+    {
+        "name": "__init__.py",
+        "parent": "locations",
+        "type": "file",
+        "size": 14444
+    },
+    {
+        "name": "__pycache__",
+        "parent": "locations",
+        "type": "directory",
+        "size": 22929
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1501
+    },
+    {
+        "name": "_distutils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4632
+    },
+    {
+        "name": "_sysconfig.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6223
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10573
+    },
+    {
+        "name": "base.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 11103
+    },
+    {
+        "name": "pkg_resources.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 5089
+    },
+    {
+        "name": "__init__.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 1660
+    },
+    {
+        "name": "__pycache__",
+        "parent": "metadata",
+        "type": "directory",
+        "size": 20930
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12967
+    },
+    {
+        "name": "pkg_resources.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6075
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1888
+    },
+    {
+        "name": "candidate.py",
+        "parent": "models",
+        "type": "file",
+        "size": 990
+    },
+    {
+        "name": "direct_url.py",
+        "parent": "models",
+        "type": "file",
+        "size": 6350
+    },
+    {
+        "name": "format_control.py",
+        "parent": "models",
+        "type": "file",
+        "size": 2520
+    },
+    {
+        "name": "index.py",
+        "parent": "models",
+        "type": "file",
+        "size": 1030
+    },
+    {
+        "name": "link.py",
+        "parent": "models",
+        "type": "file",
+        "size": 9817
+    },
+    {
+        "name": "scheme.py",
+        "parent": "models",
+        "type": "file",
+        "size": 738
+    },
+    {
+        "name": "search_scope.py",
+        "parent": "models",
+        "type": "file",
+        "size": 4520
+    },
+    {
+        "name": "selection_prefs.py",
+        "parent": "models",
+        "type": "file",
+        "size": 1907
+    },
+    {
+        "name": "target_python.py",
+        "parent": "models",
+        "type": "file",
+        "size": 3858
+    },
+    {
+        "name": "wheel.py",
+        "parent": "models",
+        "type": "file",
+        "size": 3500
+    },
+    {
+        "name": "__init__.py",
+        "parent": "models",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__pycache__",
+        "parent": "models",
+        "type": "directory",
+        "size": 36654
+    },
+    {
+        "name": "candidate.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1410
+    },
+    {
+        "name": "direct_url.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7200
+    },
+    {
+        "name": "format_control.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2681
+    },
+    {
+        "name": "index.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1197
+    },
+    {
+        "name": "link.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10221
+    },
+    {
+        "name": "scheme.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 973
+    },
+    {
+        "name": "search_scope.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3442
+    },
+    {
+        "name": "selection_prefs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1629
+    },
+    {
+        "name": "target_python.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3375
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4299
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 227
+    },
+    {
+        "name": "auth.py",
+        "parent": "network",
+        "type": "file",
+        "size": 12190
+    },
+    {
+        "name": "cache.py",
+        "parent": "network",
+        "type": "file",
+        "size": 2100
+    },
+    {
+        "name": "download.py",
+        "parent": "network",
+        "type": "file",
+        "size": 6016
+    },
+    {
+        "name": "lazy_wheel.py",
+        "parent": "network",
+        "type": "file",
+        "size": 7627
+    },
+    {
+        "name": "session.py",
+        "parent": "network",
+        "type": "file",
+        "size": 16729
+    },
+    {
+        "name": "utils.py",
+        "parent": "network",
+        "type": "file",
+        "size": 4059
+    },
+    {
+        "name": "xmlrpc.py",
+        "parent": "network",
+        "type": "file",
+        "size": 1791
+    },
+    {
+        "name": "__init__.py",
+        "parent": "network",
+        "type": "file",
+        "size": 50
+    },
+    {
+        "name": "__pycache__",
+        "parent": "network",
+        "type": "directory",
+        "size": 38436
+    },
+    {
+        "name": "auth.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7447
+    },
+    {
+        "name": "cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2857
+    },
+    {
+        "name": "download.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5446
+    },
+    {
+        "name": "lazy_wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8347
+    },
+    {
+        "name": "session.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10717
+    },
+    {
+        "name": "utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1393
+    },
+    {
+        "name": "xmlrpc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2014
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 215
+    },
+    {
+        "name": "check.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 5109
+    },
+    {
+        "name": "freeze.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 9770
+    },
+    {
+        "name": "prepare.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 23838
+    },
+    {
+        "name": "__init__.py",
+        "parent": "operations",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "build",
+        "parent": "operations",
+        "type": "directory",
+        "size": 19614
+    },
+    {
+        "name": "install",
+        "parent": "operations",
+        "type": "directory",
+        "size": 58945
+    },
+    {
+        "name": "__pycache__",
+        "parent": "operations",
+        "type": "directory",
+        "size": 24858
+    },
+    {
+        "name": "metadata.py",
+        "parent": "build",
+        "type": "file",
+        "size": 1119
+    },
+    {
+        "name": "metadata_editable.py",
+        "parent": "build",
+        "type": "file",
+        "size": 1177
+    },
+    {
+        "name": "metadata_legacy.py",
+        "parent": "build",
+        "type": "file",
+        "size": 1945
+    },
+    {
+        "name": "wheel.py",
+        "parent": "build",
+        "type": "file",
+        "size": 1063
+    },
+    {
+        "name": "wheel_editable.py",
+        "parent": "build",
+        "type": "file",
+        "size": 1405
+    },
+    {
+        "name": "wheel_legacy.py",
+        "parent": "build",
+        "type": "file",
+        "size": 3047
+    },
+    {
+        "name": "__init__.py",
+        "parent": "build",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "build",
+        "type": "directory",
+        "size": 9858
+    },
+    {
+        "name": "metadata.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1153
+    },
+    {
+        "name": "metadata_editable.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1191
+    },
+    {
+        "name": "metadata_legacy.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2121
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1164
+    },
+    {
+        "name": "wheel_editable.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1380
+    },
+    {
+        "name": "wheel_legacy.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2680
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 169
+    },
+    {
+        "name": "editable_legacy.py",
+        "parent": "install",
+        "type": "file",
+        "size": 1298
+    },
+    {
+        "name": "legacy.py",
+        "parent": "install",
+        "type": "file",
+        "size": 4158
+    },
+    {
+        "name": "wheel.py",
+        "parent": "install",
+        "type": "file",
+        "size": 27412
+    },
+    {
+        "name": "__init__.py",
+        "parent": "install",
+        "type": "file",
+        "size": 51
+    },
+    {
+        "name": "__pycache__",
+        "parent": "install",
+        "type": "directory",
+        "size": 26026
+    },
+    {
+        "name": "editable_legacy.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1405
+    },
+    {
+        "name": "legacy.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3465
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20929
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 227
+    },
+    {
+        "name": "check.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3967
+    },
+    {
+        "name": "freeze.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6109
+    },
+    {
+        "name": "prepare.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 14619
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 163
+    },
+    {
+        "name": "constructors.py",
+        "parent": "req",
+        "type": "file",
+        "size": 15285
+    },
+    {
+        "name": "req_file.py",
+        "parent": "req",
+        "type": "file",
+        "size": 17421
+    },
+    {
+        "name": "req_install.py",
+        "parent": "req",
+        "type": "file",
+        "size": 33804
+    },
+    {
+        "name": "req_set.py",
+        "parent": "req",
+        "type": "file",
+        "size": 7584
+    },
+    {
+        "name": "req_tracker.py",
+        "parent": "req",
+        "type": "file",
+        "size": 4117
+    },
+    {
+        "name": "req_uninstall.py",
+        "parent": "req",
+        "type": "file",
+        "size": 23748
+    },
+    {
+        "name": "__init__.py",
+        "parent": "req",
+        "type": "file",
+        "size": 2793
+    },
+    {
+        "name": "__pycache__",
+        "parent": "req",
+        "type": "directory",
+        "size": 78693
+    },
+    {
+        "name": "constructors.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11280
+    },
+    {
+        "name": "req_file.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13340
+    },
+    {
+        "name": "req_install.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22719
+    },
+    {
+        "name": "req_set.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5860
+    },
+    {
+        "name": "req_tracker.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4220
+    },
+    {
+        "name": "req_uninstall.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 18752
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2522
+    },
+    {
+        "name": "base.py",
+        "parent": "resolution",
+        "type": "file",
+        "size": 583
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolution",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "legacy",
+        "parent": "resolution",
+        "type": "directory",
+        "size": 30661
+    },
+    {
+        "name": "resolvelib",
+        "parent": "resolution",
+        "type": "directory",
+        "size": 156176
+    },
+    {
+        "name": "__pycache__",
+        "parent": "resolution",
+        "type": "directory",
+        "size": 1183
+    },
+    {
+        "name": "resolver.py",
+        "parent": "legacy",
+        "type": "file",
+        "size": 18312
+    },
+    {
+        "name": "__init__.py",
+        "parent": "legacy",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "legacy",
+        "type": "directory",
+        "size": 12349
+    },
+    {
+        "name": "resolver.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12179
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 170
+    },
+    {
+        "name": "base.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 5220
+    },
+    {
+        "name": "candidates.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 18210
+    },
+    {
+        "name": "factory.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 26806
+    },
+    {
+        "name": "found_candidates.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 5705
+    },
+    {
+        "name": "provider.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 9205
+    },
+    {
+        "name": "reporter.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 2526
+    },
+    {
+        "name": "requirements.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 5455
+    },
+    {
+        "name": "resolver.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 9580
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "resolvelib",
+        "type": "directory",
+        "size": 73469
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6571
+    },
+    {
+        "name": "candidates.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 18471
+    },
+    {
+        "name": "factory.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 18333
+    },
+    {
+        "name": "found_candidates.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4805
+    },
+    {
+        "name": "provider.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7076
+    },
+    {
+        "name": "reporter.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3235
+    },
+    {
+        "name": "requirements.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7544
+    },
+    {
+        "name": "resolver.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7260
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 174
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1020
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 163
+    },
+    {
+        "name": "appdirs.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1665
+    },
+    {
+        "name": "compat.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1884
+    },
+    {
+        "name": "compatibility_tags.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 5377
+    },
+    {
+        "name": "datetime.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "deprecation.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 3627
+    },
+    {
+        "name": "direct_url_helpers.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 3206
+    },
+    {
+        "name": "distutils_args.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1249
+    },
+    {
+        "name": "egg_link.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 2203
+    },
+    {
+        "name": "encoding.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1169
+    },
+    {
+        "name": "entrypoints.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1055
+    },
+    {
+        "name": "filesystem.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 5893
+    },
+    {
+        "name": "filetypes.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 716
+    },
+    {
+        "name": "glibc.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 3110
+    },
+    {
+        "name": "hashes.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 4811
+    },
+    {
+        "name": "inject_securetransport.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 795
+    },
+    {
+        "name": "logging.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 11532
+    },
+    {
+        "name": "misc.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 20432
+    },
+    {
+        "name": "models.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1193
+    },
+    {
+        "name": "packaging.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 2952
+    },
+    {
+        "name": "parallel.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 3196
+    },
+    {
+        "name": "pkg_resources.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 987
+    },
+    {
+        "name": "setuptools_build.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 4697
+    },
+    {
+        "name": "subprocess.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 10058
+    },
+    {
+        "name": "temp_dir.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 7662
+    },
+    {
+        "name": "unpacking.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 8906
+    },
+    {
+        "name": "urls.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1759
+    },
+    {
+        "name": "virtualenv.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 3459
+    },
+    {
+        "name": "wheel.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 6163
+    },
+    {
+        "name": "_log.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 1015
+    },
+    {
+        "name": "__init__.py",
+        "parent": "utils",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "utils",
+        "type": "directory",
+        "size": 108294
+    },
+    {
+        "name": "appdirs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1589
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1477
+    },
+    {
+        "name": "compatibility_tags.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4029
+    },
+    {
+        "name": "datetime.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 477
+    },
+    {
+        "name": "deprecation.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3215
+    },
+    {
+        "name": "direct_url_helpers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2048
+    },
+    {
+        "name": "distutils_args.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1063
+    },
+    {
+        "name": "egg_link.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2104
+    },
+    {
+        "name": "encoding.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1267
+    },
+    {
+        "name": "entrypoints.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1268
+    },
+    {
+        "name": "filesystem.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5104
+    },
+    {
+        "name": "filetypes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 908
+    },
+    {
+        "name": "glibc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1639
+    },
+    {
+        "name": "hashes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5153
+    },
+    {
+        "name": "inject_securetransport.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 947
+    },
+    {
+        "name": "logging.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9253
+    },
+    {
+        "name": "misc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20900
+    },
+    {
+        "name": "models.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2026
+    },
+    {
+        "name": "packaging.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2602
+    },
+    {
+        "name": "parallel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3173
+    },
+    {
+        "name": "pkg_resources.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1835
+    },
+    {
+        "name": "setuptools_build.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3397
+    },
+    {
+        "name": "subprocess.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6210
+    },
+    {
+        "name": "temp_dir.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7225
+    },
+    {
+        "name": "unpacking.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6689
+    },
+    {
+        "name": "urls.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1562
+    },
+    {
+        "name": "virtualenv.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3252
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6241
+    },
+    {
+        "name": "_log.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1483
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 158
+    },
+    {
+        "name": "bazaar.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 2857
+    },
+    {
+        "name": "git.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 17804
+    },
+    {
+        "name": "mercurial.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 4945
+    },
+    {
+        "name": "subversion.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 11596
+    },
+    {
+        "name": "versioncontrol.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 22414
+    },
+    {
+        "name": "__init__.py",
+        "parent": "vcs",
+        "type": "file",
+        "size": 596
+    },
+    {
+        "name": "__pycache__",
+        "parent": "vcs",
+        "type": "directory",
+        "size": 50013
+    },
+    {
+        "name": "bazaar.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3191
+    },
+    {
+        "name": "git.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12315
+    },
+    {
+        "name": "mercurial.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4820
+    },
+    {
+        "name": "subversion.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8353
+    },
+    {
+        "name": "versioncontrol.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20853
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 481
+    },
+    {
+        "name": "build_env.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9435
+    },
+    {
+        "name": "cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8276
+    },
+    {
+        "name": "configuration.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11092
+    },
+    {
+        "name": "exceptions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16338
+    },
+    {
+        "name": "main.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 584
+    },
+    {
+        "name": "pyproject.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3658
+    },
+    {
+        "name": "self_outdated_check.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4471
+    },
+    {
+        "name": "wheel_builder.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9085
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 719
+    },
+    {
+        "name": "distro.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 48414
+    },
+    {
+        "name": "pyparsing.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 273394
+    },
+    {
+        "name": "six.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 34549
+    },
+    {
+        "name": "vendor.txt",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 432
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 4708
+    },
+    {
+        "name": "cachecontrol",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 73639
+    },
+    {
+        "name": "certifi",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 264793
+    },
+    {
+        "name": "chardet",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 1422186
+    },
+    {
+        "name": "colorama",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 48518
+    },
+    {
+        "name": "distlib",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 1672800
+    },
+    {
+        "name": "html5lib",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 842714
+    },
+    {
+        "name": "idna",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 447318
+    },
+    {
+        "name": "msgpack",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 82658
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 177706
+    },
+    {
+        "name": "pep517",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 95444
+    },
+    {
+        "name": "pkg_resources",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 209769
+    },
+    {
+        "name": "platformdirs",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 77544
+    },
+    {
+        "name": "progress",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 26785
+    },
+    {
+        "name": "requests",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 322595
+    },
+    {
+        "name": "resolvelib",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 62759
+    },
+    {
+        "name": "tenacity",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 95304
+    },
+    {
+        "name": "tomli",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 44389
+    },
+    {
+        "name": "urllib3",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 679379
+    },
+    {
+        "name": "webencodings",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 54773
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 309081
+    },
+    {
+        "name": "adapter.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 4882
+    },
+    {
+        "name": "cache.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 805
+    },
+    {
+        "name": "compat.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 695
+    },
+    {
+        "name": "controller.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 14149
+    },
+    {
+        "name": "filewrapper.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 2533
+    },
+    {
+        "name": "heuristics.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 4070
+    },
+    {
+        "name": "serialize.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 7091
+    },
+    {
+        "name": "wrapper.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 690
+    },
+    {
+        "name": "_cmd.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 1295
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cachecontrol",
+        "type": "file",
+        "size": 302
+    },
+    {
+        "name": "caches",
+        "parent": "cachecontrol",
+        "type": "directory",
+        "size": 10163
+    },
+    {
+        "name": "__pycache__",
+        "parent": "cachecontrol",
+        "type": "directory",
+        "size": 26964
+    },
+    {
+        "name": "file_cache.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 4153
+    },
+    {
+        "name": "redis_cache.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 856
+    },
+    {
+        "name": "__init__.py",
+        "parent": "caches",
+        "type": "file",
+        "size": 86
+    },
+    {
+        "name": "__pycache__",
+        "parent": "caches",
+        "type": "directory",
+        "size": 5068
+    },
+    {
+        "name": "file_cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3276
+    },
+    {
+        "name": "redis_cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1532
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 260
+    },
+    {
+        "name": "adapter.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3042
+    },
+    {
+        "name": "cache.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1789
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 713
+    },
+    {
+        "name": "controller.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7730
+    },
+    {
+        "name": "filewrapper.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2138
+    },
+    {
+        "name": "heuristics.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4670
+    },
+    {
+        "name": "serialize.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4189
+    },
+    {
+        "name": "wrapper.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 640
+    },
+    {
+        "name": "_cmd.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1537
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 516
+    },
+    {
+        "name": "cacert.pem",
+        "parent": "certifi",
+        "type": "file",
+        "size": 259465
+    },
+    {
+        "name": "core.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 2840
+    },
+    {
+        "name": "__init__.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 62
+    },
+    {
+        "name": "__main__.py",
+        "parent": "certifi",
+        "type": "file",
+        "size": 255
+    },
+    {
+        "name": "__pycache__",
+        "parent": "certifi",
+        "type": "directory",
+        "size": 2171
+    },
+    {
+        "name": "core.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1510
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "__main__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 419
+    },
+    {
+        "name": "big5freq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 31254
+    },
+    {
+        "name": "big5prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1757
+    },
+    {
+        "name": "chardistribution.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 9411
+    },
+    {
+        "name": "charsetgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3839
+    },
+    {
+        "name": "charsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 5110
+    },
+    {
+        "name": "codingstatemachine.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3590
+    },
+    {
+        "name": "compat.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1200
+    },
+    {
+        "name": "cp949prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1855
+    },
+    {
+        "name": "enums.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1661
+    },
+    {
+        "name": "escprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3950
+    },
+    {
+        "name": "escsm.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 10510
+    },
+    {
+        "name": "eucjpprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3749
+    },
+    {
+        "name": "euckrfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 13546
+    },
+    {
+        "name": "euckrprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1748
+    },
+    {
+        "name": "euctwfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 31621
+    },
+    {
+        "name": "euctwprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1747
+    },
+    {
+        "name": "gb2312freq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 20715
+    },
+    {
+        "name": "gb2312prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 1754
+    },
+    {
+        "name": "hebrewprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 13838
+    },
+    {
+        "name": "jisfreq.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 25777
+    },
+    {
+        "name": "jpcntx.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 19643
+    },
+    {
+        "name": "langbulgarianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 105697
+    },
+    {
+        "name": "langgreekmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 99571
+    },
+    {
+        "name": "langhebrewmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 98776
+    },
+    {
+        "name": "langhungarianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 102498
+    },
+    {
+        "name": "langrussianmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 131180
+    },
+    {
+        "name": "langthaimodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 103312
+    },
+    {
+        "name": "langturkishmodel.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 95946
+    },
+    {
+        "name": "latin1prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 5370
+    },
+    {
+        "name": "mbcharsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3413
+    },
+    {
+        "name": "mbcsgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 2012
+    },
+    {
+        "name": "mbcssm.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 25481
+    },
+    {
+        "name": "sbcharsetprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 6136
+    },
+    {
+        "name": "sbcsgroupprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 4309
+    },
+    {
+        "name": "sjisprober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3774
+    },
+    {
+        "name": "universaldetector.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 12503
+    },
+    {
+        "name": "utf8prober.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 2766
+    },
+    {
+        "name": "version.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 242
+    },
+    {
+        "name": "__init__.py",
+        "parent": "chardet",
+        "type": "file",
+        "size": 3271
+    },
+    {
+        "name": "cli",
+        "parent": "chardet",
+        "type": "directory",
+        "size": 5566
+    },
+    {
+        "name": "metadata",
+        "parent": "chardet",
+        "type": "directory",
+        "size": 27539
+    },
+    {
+        "name": "__pycache__",
+        "parent": "chardet",
+        "type": "directory",
+        "size": 374549
+    },
+    {
+        "name": "chardetect.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 2747
+    },
+    {
+        "name": "__init__.py",
+        "parent": "cli",
+        "type": "file",
+        "size": 1
+    },
+    {
+        "name": "__pycache__",
+        "parent": "cli",
+        "type": "directory",
+        "size": 2818
+    },
+    {
+        "name": "chardetect.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2656
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 162
+    },
+    {
+        "name": "languages.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 19474
+    },
+    {
+        "name": "__init__.py",
+        "parent": "metadata",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "metadata",
+        "type": "directory",
+        "size": 8065
+    },
+    {
+        "name": "languages.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7898
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 167
+    },
+    {
+        "name": "big5freq.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 27145
+    },
+    {
+        "name": "big5prober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1100
+    },
+    {
+        "name": "chardistribution.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6186
+    },
+    {
+        "name": "charsetgroupprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2227
+    },
+    {
+        "name": "charsetprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3449
+    },
+    {
+        "name": "codingstatemachine.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2876
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 365
+    },
+    {
+        "name": "cp949prober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1107
+    },
+    {
+        "name": "enums.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2614
+    },
+    {
+        "name": "escprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2599
+    },
+    {
+        "name": "escsm.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7048
+    },
+    {
+        "name": "eucjpprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2413
+    },
+    {
+        "name": "euckrfreq.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12029
+    },
+    {
+        "name": "euckrprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1108
+    },
+    {
+        "name": "euctwfreq.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 27149
+    },
+    {
+        "name": "euctwprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1108
+    },
+    {
+        "name": "gb2312freq.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 19073
+    },
+    {
+        "name": "gb2312prober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1116
+    },
+    {
+        "name": "hebrewprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2985
+    },
+    {
+        "name": "jisfreq.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22101
+    },
+    {
+        "name": "jpcntx.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 37574
+    },
+    {
+        "name": "langbulgarianmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 21776
+    },
+    {
+        "name": "langgreekmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20452
+    },
+    {
+        "name": "langhebrewmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20520
+    },
+    {
+        "name": "langhungarianmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 21721
+    },
+    {
+        "name": "langrussianmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 26324
+    },
+    {
+        "name": "langthaimodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20696
+    },
+    {
+        "name": "langturkishmodel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20536
+    },
+    {
+        "name": "latin1prober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2921
+    },
+    {
+        "name": "mbcharsetprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2228
+    },
+    {
+        "name": "mbcsgroupprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1097
+    },
+    {
+        "name": "mbcssm.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15684
+    },
+    {
+        "name": "sbcharsetprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3081
+    },
+    {
+        "name": "sbcsgroupprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1666
+    },
+    {
+        "name": "sjisprober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2449
+    },
+    {
+        "name": "universaldetector.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5797
+    },
+    {
+        "name": "utf8prober.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1958
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 405
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1866
+    },
+    {
+        "name": "ansi.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 2522
+    },
+    {
+        "name": "ansitowin32.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 10517
+    },
+    {
+        "name": "initialise.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 1915
+    },
+    {
+        "name": "win32.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 5404
+    },
+    {
+        "name": "winterm.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 6438
+    },
+    {
+        "name": "__init__.py",
+        "parent": "colorama",
+        "type": "file",
+        "size": 239
+    },
+    {
+        "name": "__pycache__",
+        "parent": "colorama",
+        "type": "directory",
+        "size": 21483
+    },
+    {
+        "name": "ansi.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3195
+    },
+    {
+        "name": "ansitowin32.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7661
+    },
+    {
+        "name": "initialise.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1677
+    },
+    {
+        "name": "win32.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3909
+    },
+    {
+        "name": "winterm.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4631
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 410
+    },
+    {
+        "name": "compat.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 41495
+    },
+    {
+        "name": "database.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 51059
+    },
+    {
+        "name": "index.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 20739
+    },
+    {
+        "name": "locators.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 51965
+    },
+    {
+        "name": "manifest.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 14811
+    },
+    {
+        "name": "markers.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 4989
+    },
+    {
+        "name": "metadata.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 39109
+    },
+    {
+        "name": "resources.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 10820
+    },
+    {
+        "name": "scripts.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 17720
+    },
+    {
+        "name": "t32.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 96768
+    },
+    {
+        "name": "t64-arm.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 180736
+    },
+    {
+        "name": "t64.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 105984
+    },
+    {
+        "name": "util.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 67766
+    },
+    {
+        "name": "version.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 23513
+    },
+    {
+        "name": "w32.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 90112
+    },
+    {
+        "name": "w64-arm.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 166400
+    },
+    {
+        "name": "w64.exe",
+        "parent": "distlib",
+        "type": "file",
+        "size": 99840
+    },
+    {
+        "name": "wheel.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 42943
+    },
+    {
+        "name": "__init__.py",
+        "parent": "distlib",
+        "type": "file",
+        "size": 581
+    },
+    {
+        "name": "_backport",
+        "parent": "distlib",
+        "type": "directory",
+        "size": 250847
+    },
+    {
+        "name": "__pycache__",
+        "parent": "distlib",
+        "type": "directory",
+        "size": 294603
+    },
+    {
+        "name": "misc.py",
+        "parent": "_backport",
+        "type": "file",
+        "size": 971
+    },
+    {
+        "name": "shutil.py",
+        "parent": "_backport",
+        "type": "file",
+        "size": 25707
+    },
+    {
+        "name": "sysconfig.cfg",
+        "parent": "_backport",
+        "type": "file",
+        "size": 2617
+    },
+    {
+        "name": "sysconfig.py",
+        "parent": "_backport",
+        "type": "file",
+        "size": 26854
+    },
+    {
+        "name": "tarfile.py",
+        "parent": "_backport",
+        "type": "file",
+        "size": 92628
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_backport",
+        "type": "file",
+        "size": 274
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_backport",
+        "type": "directory",
+        "size": 101796
+    },
+    {
+        "name": "misc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1070
+    },
+    {
+        "name": "shutil.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 21644
+    },
+    {
+        "name": "sysconfig.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15934
+    },
+    {
+        "name": "tarfile.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 62698
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 450
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 31788
+    },
+    {
+        "name": "database.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 42447
+    },
+    {
+        "name": "index.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 17256
+    },
+    {
+        "name": "locators.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 38220
+    },
+    {
+        "name": "manifest.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10159
+    },
+    {
+        "name": "markers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4941
+    },
+    {
+        "name": "metadata.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 26554
+    },
+    {
+        "name": "resources.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10977
+    },
+    {
+        "name": "scripts.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11209
+    },
+    {
+        "name": "util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 52572
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20322
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 27135
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1023
+    },
+    {
+        "name": "constants.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 83464
+    },
+    {
+        "name": "html5parser.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 117186
+    },
+    {
+        "name": "serializer.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 15759
+    },
+    {
+        "name": "_ihatexml.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 16728
+    },
+    {
+        "name": "_inputstream.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 32353
+    },
+    {
+        "name": "_tokenizer.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 77040
+    },
+    {
+        "name": "_utils.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 4931
+    },
+    {
+        "name": "__init__.py",
+        "parent": "html5lib",
+        "type": "file",
+        "size": 1160
+    },
+    {
+        "name": "filters",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 74131
+    },
+    {
+        "name": "treeadapters",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 8017
+    },
+    {
+        "name": "treebuilders",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 103445
+    },
+    {
+        "name": "treewalkers",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 52367
+    },
+    {
+        "name": "_trie",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 7003
+    },
+    {
+        "name": "__pycache__",
+        "parent": "html5lib",
+        "type": "directory",
+        "size": 249130
+    },
+    {
+        "name": "alphabeticalattributes.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 919
+    },
+    {
+        "name": "base.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 286
+    },
+    {
+        "name": "inject_meta_charset.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 2945
+    },
+    {
+        "name": "lint.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 3643
+    },
+    {
+        "name": "optionaltags.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 10588
+    },
+    {
+        "name": "sanitizer.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 26897
+    },
+    {
+        "name": "whitespace.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 1214
+    },
+    {
+        "name": "__init__.py",
+        "parent": "filters",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "filters",
+        "type": "directory",
+        "size": 27639
+    },
+    {
+        "name": "alphabeticalattributes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1289
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 837
+    },
+    {
+        "name": "inject_meta_charset.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1843
+    },
+    {
+        "name": "lint.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2585
+    },
+    {
+        "name": "optionaltags.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2730
+    },
+    {
+        "name": "sanitizer.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16853
+    },
+    {
+        "name": "whitespace.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1335
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 167
+    },
+    {
+        "name": "genshi.py",
+        "parent": "treeadapters",
+        "type": "file",
+        "size": 1715
+    },
+    {
+        "name": "sax.py",
+        "parent": "treeadapters",
+        "type": "file",
+        "size": 1776
+    },
+    {
+        "name": "__init__.py",
+        "parent": "treeadapters",
+        "type": "file",
+        "size": 679
+    },
+    {
+        "name": "__pycache__",
+        "parent": "treeadapters",
+        "type": "directory",
+        "size": 3847
+    },
+    {
+        "name": "genshi.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1512
+    },
+    {
+        "name": "sax.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1431
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 904
+    },
+    {
+        "name": "base.py",
+        "parent": "treebuilders",
+        "type": "file",
+        "size": 14565
+    },
+    {
+        "name": "dom.py",
+        "parent": "treebuilders",
+        "type": "file",
+        "size": 8925
+    },
+    {
+        "name": "etree.py",
+        "parent": "treebuilders",
+        "type": "file",
+        "size": 12836
+    },
+    {
+        "name": "etree_lxml.py",
+        "parent": "treebuilders",
+        "type": "file",
+        "size": 14766
+    },
+    {
+        "name": "__init__.py",
+        "parent": "treebuilders",
+        "type": "file",
+        "size": 3592
+    },
+    {
+        "name": "__pycache__",
+        "parent": "treebuilders",
+        "type": "directory",
+        "size": 48761
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11283
+    },
+    {
+        "name": "dom.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9420
+    },
+    {
+        "name": "etree.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11788
+    },
+    {
+        "name": "etree_lxml.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12971
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3299
+    },
+    {
+        "name": "base.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 7476
+    },
+    {
+        "name": "dom.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 1413
+    },
+    {
+        "name": "etree.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 4551
+    },
+    {
+        "name": "etree_lxml.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 6357
+    },
+    {
+        "name": "genshi.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 2309
+    },
+    {
+        "name": "__init__.py",
+        "parent": "treewalkers",
+        "type": "file",
+        "size": 5719
+    },
+    {
+        "name": "__pycache__",
+        "parent": "treewalkers",
+        "type": "directory",
+        "size": 24542
+    },
+    {
+        "name": "base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6964
+    },
+    {
+        "name": "dom.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1699
+    },
+    {
+        "name": "etree.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3461
+    },
+    {
+        "name": "etree_lxml.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6598
+    },
+    {
+        "name": "genshi.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1855
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3965
+    },
+    {
+        "name": "py.py",
+        "parent": "_trie",
+        "type": "file",
+        "size": 1775
+    },
+    {
+        "name": "_base.py",
+        "parent": "_trie",
+        "type": "file",
+        "size": 1013
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_trie",
+        "type": "file",
+        "size": 109
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_trie",
+        "type": "directory",
+        "size": 4106
+    },
+    {
+        "name": "py.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2224
+    },
+    {
+        "name": "_base.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1563
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 319
+    },
+    {
+        "name": "constants.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 66307
+    },
+    {
+        "name": "html5parser.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 90978
+    },
+    {
+        "name": "serializer.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10780
+    },
+    {
+        "name": "_ihatexml.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13738
+    },
+    {
+        "name": "_inputstream.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 21597
+    },
+    {
+        "name": "_tokenizer.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 39692
+    },
+    {
+        "name": "_utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4769
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1269
+    },
+    {
+        "name": "codec.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 3453
+    },
+    {
+        "name": "compat.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 360
+    },
+    {
+        "name": "core.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 12826
+    },
+    {
+        "name": "idnadata.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 42350
+    },
+    {
+        "name": "intranges.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 1933
+    },
+    {
+        "name": "package_data.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 21
+    },
+    {
+        "name": "uts46data.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 201849
+    },
+    {
+        "name": "__init__.py",
+        "parent": "idna",
+        "type": "file",
+        "size": 849
+    },
+    {
+        "name": "__pycache__",
+        "parent": "idna",
+        "type": "directory",
+        "size": 183677
+    },
+    {
+        "name": "codec.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2845
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 651
+    },
+    {
+        "name": "core.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9119
+    },
+    {
+        "name": "idnadata.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22105
+    },
+    {
+        "name": "intranges.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1827
+    },
+    {
+        "name": "package_data.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 178
+    },
+    {
+        "name": "uts46data.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 146138
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 814
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 1081
+    },
+    {
+        "name": "ext.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 6088
+    },
+    {
+        "name": "fallback.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 38026
+    },
+    {
+        "name": "_version.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 20
+    },
+    {
+        "name": "__init__.py",
+        "parent": "msgpack",
+        "type": "file",
+        "size": 1118
+    },
+    {
+        "name": "__pycache__",
+        "parent": "msgpack",
+        "type": "directory",
+        "size": 36325
+    },
+    {
+        "name": "exceptions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1819
+    },
+    {
+        "name": "ext.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6247
+    },
+    {
+        "name": "fallback.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 26693
+    },
+    {
+        "name": "_version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 185
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1381
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 8487
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4676
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 30964
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 15714
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 1629
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "__pycache__",
+        "parent": "packaging",
+        "type": "directory",
+        "size": 80347
+    },
+    {
+        "name": "markers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9420
+    },
+    {
+        "name": "requirements.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3941
+    },
+    {
+        "name": "specifiers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22177
+    },
+    {
+        "name": "tags.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12256
+    },
+    {
+        "name": "utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3578
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13119
+    },
+    {
+        "name": "_manylinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7261
+    },
+    {
+        "name": "_musllinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4576
+    },
+    {
+        "name": "_structures.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3049
+    },
+    {
+        "name": "__about__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 557
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 413
+    },
+    {
+        "name": "build.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 3457
+    },
+    {
+        "name": "check.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 6084
+    },
+    {
+        "name": "colorlog.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 4098
+    },
+    {
+        "name": "compat.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 1253
+    },
+    {
+        "name": "dirtools.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 1129
+    },
+    {
+        "name": "envbuild.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 6100
+    },
+    {
+        "name": "meta.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 2463
+    },
+    {
+        "name": "wrappers.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 13429
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pep517",
+        "type": "file",
+        "size": 130
+    },
+    {
+        "name": "in_process",
+        "parent": "pep517",
+        "type": "directory",
+        "size": 22882
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pep517",
+        "type": "directory",
+        "size": 34419
+    },
+    {
+        "name": "_in_process.py",
+        "parent": "in_process",
+        "type": "file",
+        "size": 11201
+    },
+    {
+        "name": "__init__.py",
+        "parent": "in_process",
+        "type": "file",
+        "size": 563
+    },
+    {
+        "name": "__pycache__",
+        "parent": "in_process",
+        "type": "directory",
+        "size": 11118
+    },
+    {
+        "name": "_in_process.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10236
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 882
+    },
+    {
+        "name": "build.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3528
+    },
+    {
+        "name": "check.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5075
+    },
+    {
+        "name": "colorlog.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2905
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1496
+    },
+    {
+        "name": "dirtools.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1314
+    },
+    {
+        "name": "envbuild.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4474
+    },
+    {
+        "name": "meta.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2887
+    },
+    {
+        "name": "wrappers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12460
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 280
+    },
+    {
+        "name": "py31compat.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 562
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 108287
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pkg_resources",
+        "type": "directory",
+        "size": 100920
+    },
+    {
+        "name": "py31compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 617
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 100303
+    },
+    {
+        "name": "android.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 3994
+    },
+    {
+        "name": "api.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 4922
+    },
+    {
+        "name": "macos.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 2619
+    },
+    {
+        "name": "unix.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 6905
+    },
+    {
+        "name": "version.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 80
+    },
+    {
+        "name": "windows.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 6416
+    },
+    {
+        "name": "__init__.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 12859
+    },
+    {
+        "name": "__main__.py",
+        "parent": "platformdirs",
+        "type": "file",
+        "size": 1140
+    },
+    {
+        "name": "__pycache__",
+        "parent": "platformdirs",
+        "type": "directory",
+        "size": 38609
+    },
+    {
+        "name": "android.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4292
+    },
+    {
+        "name": "api.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5269
+    },
+    {
+        "name": "macos.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3227
+    },
+    {
+        "name": "unix.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7006
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 262
+    },
+    {
+        "name": "windows.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6375
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11041
+    },
+    {
+        "name": "__main__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1137
+    },
+    {
+        "name": "bar.py",
+        "parent": "progress",
+        "type": "file",
+        "size": 2942
+    },
+    {
+        "name": "colors.py",
+        "parent": "progress",
+        "type": "file",
+        "size": 2655
+    },
+    {
+        "name": "counter.py",
+        "parent": "progress",
+        "type": "file",
+        "size": 1613
+    },
+    {
+        "name": "spinner.py",
+        "parent": "progress",
+        "type": "file",
+        "size": 1461
+    },
+    {
+        "name": "__init__.py",
+        "parent": "progress",
+        "type": "file",
+        "size": 5294
+    },
+    {
+        "name": "__pycache__",
+        "parent": "progress",
+        "type": "directory",
+        "size": 12820
+    },
+    {
+        "name": "bar.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2694
+    },
+    {
+        "name": "colors.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1467
+    },
+    {
+        "name": "counter.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1592
+    },
+    {
+        "name": "spinner.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1418
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5649
+    },
+    {
+        "name": "adapters.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 21548
+    },
+    {
+        "name": "api.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 6402
+    },
+    {
+        "name": "auth.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 10207
+    },
+    {
+        "name": "certs.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 465
+    },
+    {
+        "name": "compat.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 2045
+    },
+    {
+        "name": "cookies.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 18430
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 3250
+    },
+    {
+        "name": "help.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 3972
+    },
+    {
+        "name": "hooks.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 757
+    },
+    {
+        "name": "models.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 34924
+    },
+    {
+        "name": "packages.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 695
+    },
+    {
+        "name": "sessions.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 30168
+    },
+    {
+        "name": "status_codes.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 4188
+    },
+    {
+        "name": "structures.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 3005
+    },
+    {
+        "name": "utils.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 31394
+    },
+    {
+        "name": "_internal_utils.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 1096
+    },
+    {
+        "name": "__init__.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 5113
+    },
+    {
+        "name": "__version__.py",
+        "parent": "requests",
+        "type": "file",
+        "size": 441
+    },
+    {
+        "name": "__pycache__",
+        "parent": "requests",
+        "type": "directory",
+        "size": 144495
+    },
+    {
+        "name": "adapters.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16940
+    },
+    {
+        "name": "api.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6686
+    },
+    {
+        "name": "auth.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8298
+    },
+    {
+        "name": "certs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 600
+    },
+    {
+        "name": "compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1579
+    },
+    {
+        "name": "cookies.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 18789
+    },
+    {
+        "name": "exceptions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5372
+    },
+    {
+        "name": "help.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2860
+    },
+    {
+        "name": "hooks.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 957
+    },
+    {
+        "name": "models.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 24437
+    },
+    {
+        "name": "packages.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 469
+    },
+    {
+        "name": "sessions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 19824
+    },
+    {
+        "name": "status_codes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4206
+    },
+    {
+        "name": "structures.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4427
+    },
+    {
+        "name": "utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 23291
+    },
+    {
+        "name": "_internal_utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1269
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3969
+    },
+    {
+        "name": "__version__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 522
+    },
+    {
+        "name": "providers.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 5872
+    },
+    {
+        "name": "reporters.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 1364
+    },
+    {
+        "name": "resolvers.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 17540
+    },
+    {
+        "name": "structs.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 4794
+    },
+    {
+        "name": "__init__.py",
+        "parent": "resolvelib",
+        "type": "file",
+        "size": 537
+    },
+    {
+        "name": "compat",
+        "parent": "resolvelib",
+        "type": "directory",
+        "size": 666
+    },
+    {
+        "name": "__pycache__",
+        "parent": "resolvelib",
+        "type": "directory",
+        "size": 31986
+    },
+    {
+        "name": "collections_abc.py",
+        "parent": "compat",
+        "type": "file",
+        "size": 156
+    },
+    {
+        "name": "__init__.py",
+        "parent": "compat",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "compat",
+        "type": "directory",
+        "size": 510
+    },
+    {
+        "name": "collections_abc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 342
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 168
+    },
+    {
+        "name": "providers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6672
+    },
+    {
+        "name": "reporters.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2269
+    },
+    {
+        "name": "resolvers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15226
+    },
+    {
+        "name": "structs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7246
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 573
+    },
+    {
+        "name": "after.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 1496
+    },
+    {
+        "name": "before.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 1376
+    },
+    {
+        "name": "before_sleep.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 1908
+    },
+    {
+        "name": "nap.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 1383
+    },
+    {
+        "name": "retry.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 6645
+    },
+    {
+        "name": "stop.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 2790
+    },
+    {
+        "name": "tornadoweb.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 2145
+    },
+    {
+        "name": "wait.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 6691
+    },
+    {
+        "name": "_asyncio.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 3314
+    },
+    {
+        "name": "_utils.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 1944
+    },
+    {
+        "name": "__init__.py",
+        "parent": "tenacity",
+        "type": "file",
+        "size": 18257
+    },
+    {
+        "name": "__pycache__",
+        "parent": "tenacity",
+        "type": "directory",
+        "size": 47355
+    },
+    {
+        "name": "after.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1177
+    },
+    {
+        "name": "before.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1065
+    },
+    {
+        "name": "before_sleep.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1357
+    },
+    {
+        "name": "nap.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1159
+    },
+    {
+        "name": "retry.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8747
+    },
+    {
+        "name": "stop.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4211
+    },
+    {
+        "name": "tornadoweb.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1711
+    },
+    {
+        "name": "wait.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7923
+    },
+    {
+        "name": "_asyncio.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2561
+    },
+    {
+        "name": "_utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1198
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16246
+    },
+    {
+        "name": "_parser.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 22415
+    },
+    {
+        "name": "_re.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 2681
+    },
+    {
+        "name": "__init__.py",
+        "parent": "tomli",
+        "type": "file",
+        "size": 230
+    },
+    {
+        "name": "__pycache__",
+        "parent": "tomli",
+        "type": "directory",
+        "size": 19063
+    },
+    {
+        "name": "_parser.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16321
+    },
+    {
+        "name": "_re.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2396
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 346
+    },
+    {
+        "name": "connection.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 20080
+    },
+    {
+        "name": "connectionpool.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 37587
+    },
+    {
+        "name": "exceptions.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 8217
+    },
+    {
+        "name": "fields.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 8579
+    },
+    {
+        "name": "filepost.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 2440
+    },
+    {
+        "name": "poolmanager.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 19763
+    },
+    {
+        "name": "request.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 5985
+    },
+    {
+        "name": "response.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 28203
+    },
+    {
+        "name": "_collections.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 10811
+    },
+    {
+        "name": "_version.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 63
+    },
+    {
+        "name": "__init__.py",
+        "parent": "urllib3",
+        "type": "file",
+        "size": 2763
+    },
+    {
+        "name": "contrib",
+        "parent": "urllib3",
+        "type": "directory",
+        "size": 183010
+    },
+    {
+        "name": "packages",
+        "parent": "urllib3",
+        "type": "directory",
+        "size": 75888
+    },
+    {
+        "name": "util",
+        "parent": "urllib3",
+        "type": "directory",
+        "size": 160582
+    },
+    {
+        "name": "__pycache__",
+        "parent": "urllib3",
+        "type": "directory",
+        "size": 115408
+    },
+    {
+        "name": "appengine.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 11034
+    },
+    {
+        "name": "ntlmpool.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 4538
+    },
+    {
+        "name": "pyopenssl.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 16900
+    },
+    {
+        "name": "securetransport.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 34449
+    },
+    {
+        "name": "socks.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 7097
+    },
+    {
+        "name": "_appengine_environ.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 957
+    },
+    {
+        "name": "__init__.py",
+        "parent": "contrib",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "_securetransport",
+        "parent": "contrib",
+        "type": "directory",
+        "size": 51587
+    },
+    {
+        "name": "__pycache__",
+        "parent": "contrib",
+        "type": "directory",
+        "size": 56448
+    },
+    {
+        "name": "bindings.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 17649
+    },
+    {
+        "name": "low_level.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 13922
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_securetransport",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_securetransport",
+        "type": "directory",
+        "size": 20016
+    },
+    {
+        "name": "bindings.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10690
+    },
+    {
+        "name": "low_level.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9143
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 183
+    },
+    {
+        "name": "appengine.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8239
+    },
+    {
+        "name": "ntlmpool.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3593
+    },
+    {
+        "name": "pyopenssl.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15570
+    },
+    {
+        "name": "securetransport.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 21892
+    },
+    {
+        "name": "socks.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5602
+    },
+    {
+        "name": "_appengine_environ.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1386
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 166
+    },
+    {
+        "name": "six.py",
+        "parent": "packages",
+        "type": "file",
+        "size": 34666
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packages",
+        "type": "file",
+        "size": 108
+    },
+    {
+        "name": "backports",
+        "parent": "packages",
+        "type": "directory",
+        "size": 2869
+    },
+    {
+        "name": "ssl_match_hostname",
+        "parent": "packages",
+        "type": "directory",
+        "size": 10415
+    },
+    {
+        "name": "__pycache__",
+        "parent": "packages",
+        "type": "directory",
+        "size": 27830
+    },
+    {
+        "name": "makefile.py",
+        "parent": "backports",
+        "type": "file",
+        "size": 1417
+    },
+    {
+        "name": "__init__.py",
+        "parent": "backports",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent": "backports",
+        "type": "directory",
+        "size": 1452
+    },
+    {
+        "name": "makefile.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1275
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 177
+    },
+    {
+        "name": "_implementation.py",
+        "parent": "ssl_match_hostname",
+        "type": "file",
+        "size": 5679
+    },
+    {
+        "name": "__init__.py",
+        "parent": "ssl_match_hostname",
+        "type": "file",
+        "size": 927
+    },
+    {
+        "name": "__pycache__",
+        "parent": "ssl_match_hostname",
+        "type": "directory",
+        "size": 3809
+    },
+    {
+        "name": "_implementation.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3270
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 539
+    },
+    {
+        "name": "six.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 27550
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 280
+    },
+    {
+        "name": "connection.py",
+        "parent": "util",
+        "type": "file",
+        "size": 4920
+    },
+    {
+        "name": "proxy.py",
+        "parent": "util",
+        "type": "file",
+        "size": 1605
+    },
+    {
+        "name": "queue.py",
+        "parent": "util",
+        "type": "file",
+        "size": 498
+    },
+    {
+        "name": "request.py",
+        "parent": "util",
+        "type": "file",
+        "size": 4123
+    },
+    {
+        "name": "response.py",
+        "parent": "util",
+        "type": "file",
+        "size": 3510
+    },
+    {
+        "name": "retry.py",
+        "parent": "util",
+        "type": "file",
+        "size": 21391
+    },
+    {
+        "name": "ssltransport.py",
+        "parent": "util",
+        "type": "file",
+        "size": 6931
+    },
+    {
+        "name": "ssl_.py",
+        "parent": "util",
+        "type": "file",
+        "size": 17177
+    },
+    {
+        "name": "timeout.py",
+        "parent": "util",
+        "type": "file",
+        "size": 10003
+    },
+    {
+        "name": "url.py",
+        "parent": "util",
+        "type": "file",
+        "size": 14047
+    },
+    {
+        "name": "wait.py",
+        "parent": "util",
+        "type": "file",
+        "size": 5404
+    },
+    {
+        "name": "__init__.py",
+        "parent": "util",
+        "type": "file",
+        "size": 1155
+    },
+    {
+        "name": "__pycache__",
+        "parent": "util",
+        "type": "directory",
+        "size": 69818
+    },
+    {
+        "name": "connection.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3428
+    },
+    {
+        "name": "proxy.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1312
+    },
+    {
+        "name": "queue.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1031
+    },
+    {
+        "name": "request.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3419
+    },
+    {
+        "name": "response.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2316
+    },
+    {
+        "name": "retry.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15803
+    },
+    {
+        "name": "ssltransport.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7481
+    },
+    {
+        "name": "ssl_.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11300
+    },
+    {
+        "name": "timeout.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8914
+    },
+    {
+        "name": "url.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10639
+    },
+    {
+        "name": "wait.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3099
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1076
+    },
+    {
+        "name": "connection.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13649
+    },
+    {
+        "name": "connectionpool.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 24676
+    },
+    {
+        "name": "exceptions.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 11613
+    },
+    {
+        "name": "fields.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8128
+    },
+    {
+        "name": "filepost.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2729
+    },
+    {
+        "name": "poolmanager.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15131
+    },
+    {
+        "name": "request.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5592
+    },
+    {
+        "name": "response.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20803
+    },
+    {
+        "name": "_collections.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10751
+    },
+    {
+        "name": "_version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 180
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2156
+    },
+    {
+        "name": "labels.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 8979
+    },
+    {
+        "name": "mklabels.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 1305
+    },
+    {
+        "name": "tests.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 6563
+    },
+    {
+        "name": "x_user_defined.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 4307
+    },
+    {
+        "name": "__init__.py",
+        "parent": "webencodings",
+        "type": "file",
+        "size": 10579
+    },
+    {
+        "name": "__pycache__",
+        "parent": "webencodings",
+        "type": "directory",
+        "size": 23040
+    },
+    {
+        "name": "labels.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3804
+    },
+    {
+        "name": "mklabels.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1874
+    },
+    {
+        "name": "tests.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5038
+    },
+    {
+        "name": "x_user_defined.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2634
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9690
+    },
+    {
+        "name": "distro.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 38333
+    },
+    {
+        "name": "pyparsing.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 240402
+    },
+    {
+        "name": "six.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 27475
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2871
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 598
+    },
+    {
+        "name": "__main__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 554
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 125
+    },
+    {
+        "name": "INSTALLER",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "LICENSE.txt",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 1090
+    },
+    {
+        "name": "METADATA",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 4216
+    },
+    {
+        "name": "RECORD",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 63513
+    },
+    {
+        "name": "top_level.txt",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "WHEEL",
+        "parent": "pip-21.3.1.dist-info",
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "__init__.py",
+        "parent": "pkg_resources",
+        "type": "file",
+        "size": 108382
+    },
+    {
+        "name": "extern",
+        "parent": "pkg_resources",
+        "type": "directory",
+        "size": 5211
+    },
+    {
+        "name": "tests",
+        "parent": "pkg_resources",
+        "type": "directory",
+        "size": 392
+    },
+    {
+        "name": "_vendor",
+        "parent": "pkg_resources",
+        "type": "directory",
+        "size": 656564
+    },
+    {
+        "name": "__pycache__",
+        "parent": "pkg_resources",
+        "type": "directory",
+        "size": 100515
+    },
+    {
+        "name": "__init__.py",
+        "parent": "extern",
+        "type": "file",
+        "size": 2362
+    },
+    {
+        "name": "__pycache__",
+        "parent": "extern",
+        "type": "directory",
+        "size": 2849
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2849
+    },
+    {
+        "name": "data",
+        "parent": "tests",
+        "type": "directory",
+        "size": 392
+    },
+    {
+        "name": "my-test-package-source",
+        "parent": "data",
+        "type": "directory",
+        "size": 392
+    },
+    {
+        "name": "setup.py",
+        "parent": "my-test-package-source",
+        "type": "file",
+        "size": 104
+    },
+    {
+        "name": "__pycache__",
+        "parent": "my-test-package-source",
+        "type": "directory",
+        "size": 288
+    },
+    {
+        "name": "setup.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 288
+    },
+    {
+        "name": "appdirs.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 24701
+    },
+    {
+        "name": "pyparsing.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 232055
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 177858
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 221950
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 8496
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4706
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 30964
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 15710
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 1629
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "__pycache__",
+        "parent": "packaging",
+        "type": "directory",
+        "size": 80464
+    },
+    {
+        "name": "markers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9439
+    },
+    {
+        "name": "requirements.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3960
+    },
+    {
+        "name": "specifiers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22187
+    },
+    {
+        "name": "tags.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12255
+    },
+    {
+        "name": "utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3588
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13129
+    },
+    {
+        "name": "_manylinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7271
+    },
+    {
+        "name": "_musllinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4586
+    },
+    {
+        "name": "_structures.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3059
+    },
+    {
+        "name": "__about__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 567
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 423
+    },
+    {
+        "name": "appdirs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20477
+    },
+    {
+        "name": "pyparsing.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 201313
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 160
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 100515
+    },
+    {
+        "name": "archive_util.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 7077
+    },
+    {
+        "name": "build_meta.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 10536
+    },
+    {
+        "name": "cli-32.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "cli-64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 74752
+    },
+    {
+        "name": "cli-arm64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 137216
+    },
+    {
+        "name": "cli.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "config.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 23123
+    },
+    {
+        "name": "depends.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 5474
+    },
+    {
+        "name": "dep_util.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 949
+    },
+    {
+        "name": "dist.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 42989
+    },
+    {
+        "name": "errors.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 1555
+    },
+    {
+        "name": "extension.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 1684
+    },
+    {
+        "name": "glob.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 4873
+    },
+    {
+        "name": "gui-32.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "gui-64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 75264
+    },
+    {
+        "name": "gui-arm64.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 137728
+    },
+    {
+        "name": "gui.exe",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 65536
+    },
+    {
+        "name": "installer.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 3824
+    },
+    {
+        "name": "launch.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 812
+    },
+    {
+        "name": "monkey.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 5217
+    },
+    {
+        "name": "msvc.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 50561
+    },
+    {
+        "name": "namespaces.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 3093
+    },
+    {
+        "name": "package_index.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 39886
+    },
+    {
+        "name": "py34compat.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 245
+    },
+    {
+        "name": "sandbox.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 14348
+    },
+    {
+        "name": "script (dev).tmpl",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 218
+    },
+    {
+        "name": "script.tmpl",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 138
+    },
+    {
+        "name": "unicode_utils.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 941
+    },
+    {
+        "name": "version.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 144
+    },
+    {
+        "name": "wheel.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 8288
+    },
+    {
+        "name": "windows_support.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 714
+    },
+    {
+        "name": "_deprecation_warning.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 218
+    },
+    {
+        "name": "_imp.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 2392
+    },
+    {
+        "name": "__init__.py",
+        "parent": "setuptools",
+        "type": "file",
+        "size": 7448
+    },
+    {
+        "name": "command",
+        "parent": "setuptools",
+        "type": "directory",
+        "size": 395924
+    },
+    {
+        "name": "extern",
+        "parent": "setuptools",
+        "type": "directory",
+        "size": 5295
+    },
+    {
+        "name": "_distutils",
+        "parent": "setuptools",
+        "type": "directory",
+        "size": 1092801
+    },
+    {
+        "name": "_vendor",
+        "parent": "setuptools",
+        "type": "directory",
+        "size": 905243
+    },
+    {
+        "name": "__pycache__",
+        "parent": "setuptools",
+        "type": "directory",
+        "size": 209735
+    },
+    {
+        "name": "alias.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2381
+    },
+    {
+        "name": "bdist_egg.py",
+        "parent": "command",
+        "type": "file",
+        "size": 16604
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": "command",
+        "type": "file",
+        "size": 1182
+    },
+    {
+        "name": "build_clib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 4415
+    },
+    {
+        "name": "build_ext.py",
+        "parent": "command",
+        "type": "file",
+        "size": 13212
+    },
+    {
+        "name": "build_py.py",
+        "parent": "command",
+        "type": "file",
+        "size": 8751
+    },
+    {
+        "name": "develop.py",
+        "parent": "command",
+        "type": "file",
+        "size": 7012
+    },
+    {
+        "name": "dist_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 960
+    },
+    {
+        "name": "easy_install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 85660
+    },
+    {
+        "name": "egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 26126
+    },
+    {
+        "name": "install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 4906
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2203
+    },
+    {
+        "name": "install_lib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 3875
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2593
+    },
+    {
+        "name": "launcher manifest.xml",
+        "parent": "command",
+        "type": "file",
+        "size": 628
+    },
+    {
+        "name": "py36compat.py",
+        "parent": "command",
+        "type": "file",
+        "size": 4946
+    },
+    {
+        "name": "register.py",
+        "parent": "command",
+        "type": "file",
+        "size": 468
+    },
+    {
+        "name": "rotate.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2128
+    },
+    {
+        "name": "saveopts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 658
+    },
+    {
+        "name": "sdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 6413
+    },
+    {
+        "name": "setopt.py",
+        "parent": "command",
+        "type": "file",
+        "size": 5086
+    },
+    {
+        "name": "test.py",
+        "parent": "command",
+        "type": "file",
+        "size": 8088
+    },
+    {
+        "name": "upload.py",
+        "parent": "command",
+        "type": "file",
+        "size": 462
+    },
+    {
+        "name": "upload_docs.py",
+        "parent": "command",
+        "type": "file",
+        "size": 7218
+    },
+    {
+        "name": "__init__.py",
+        "parent": "command",
+        "type": "file",
+        "size": 217
+    },
+    {
+        "name": "__pycache__",
+        "parent": "command",
+        "type": "directory",
+        "size": 179732
+    },
+    {
+        "name": "alias.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2340
+    },
+    {
+        "name": "bdist_egg.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13006
+    },
+    {
+        "name": "bdist_rpm.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1553
+    },
+    {
+        "name": "build_clib.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2437
+    },
+    {
+        "name": "build_ext.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9796
+    },
+    {
+        "name": "build_py.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8183
+    },
+    {
+        "name": "develop.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6106
+    },
+    {
+        "name": "dist_info.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1364
+    },
+    {
+        "name": "easy_install.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 63733
+    },
+    {
+        "name": "egg_info.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22668
+    },
+    {
+        "name": "install.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4154
+    },
+    {
+        "name": "install_egg_info.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2396
+    },
+    {
+        "name": "install_lib.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4103
+    },
+    {
+        "name": "install_scripts.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2391
+    },
+    {
+        "name": "py36compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4558
+    },
+    {
+        "name": "register.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 814
+    },
+    {
+        "name": "rotate.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2473
+    },
+    {
+        "name": "saveopts.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 892
+    },
+    {
+        "name": "sdist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6861
+    },
+    {
+        "name": "setopt.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4643
+    },
+    {
+        "name": "test.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7998
+    },
+    {
+        "name": "upload.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 787
+    },
+    {
+        "name": "upload_docs.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6130
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 346
+    },
+    {
+        "name": "__init__.py",
+        "parent": "extern",
+        "type": "file",
+        "size": 2407
+    },
+    {
+        "name": "__pycache__",
+        "parent": "extern",
+        "type": "directory",
+        "size": 2888
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2888
+    },
+    {
+        "name": "archive_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 8572
+    },
+    {
+        "name": "bcppcompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 14894
+    },
+    {
+        "name": "ccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 47644
+    },
+    {
+        "name": "cmd.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 18079
+    },
+    {
+        "name": "config.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 4827
+    },
+    {
+        "name": "core.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 8876
+    },
+    {
+        "name": "cygwinccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 16938
+    },
+    {
+        "name": "debug.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 139
+    },
+    {
+        "name": "dep_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 3491
+    },
+    {
+        "name": "dir_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 7778
+    },
+    {
+        "name": "dist.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 50421
+    },
+    {
+        "name": "errors.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 3577
+    },
+    {
+        "name": "extension.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 10515
+    },
+    {
+        "name": "fancy_getopt.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 17784
+    },
+    {
+        "name": "filelist.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 13407
+    },
+    {
+        "name": "file_util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 8148
+    },
+    {
+        "name": "log.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 1969
+    },
+    {
+        "name": "msvc9compiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 30453
+    },
+    {
+        "name": "msvccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 23540
+    },
+    {
+        "name": "py35compat.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 455
+    },
+    {
+        "name": "py38compat.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 212
+    },
+    {
+        "name": "spawn.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 3498
+    },
+    {
+        "name": "sysconfig.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 21630
+    },
+    {
+        "name": "text_file.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 12483
+    },
+    {
+        "name": "unixccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 14538
+    },
+    {
+        "name": "util.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 20375
+    },
+    {
+        "name": "version.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 12514
+    },
+    {
+        "name": "versionpredicate.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 5133
+    },
+    {
+        "name": "_msvccompiler.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 20813
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_distutils",
+        "type": "file",
+        "size": 250
+    },
+    {
+        "name": "command",
+        "parent": "_distutils",
+        "type": "directory",
+        "size": 420163
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_distutils",
+        "type": "directory",
+        "size": 269685
+    },
+    {
+        "name": "bdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 5562
+    },
+    {
+        "name": "bdist_dumb.py",
+        "parent": "command",
+        "type": "file",
+        "size": 4913
+    },
+    {
+        "name": "bdist_msi.py",
+        "parent": "command",
+        "type": "file",
+        "size": 35579
+    },
+    {
+        "name": "bdist_rpm.py",
+        "parent": "command",
+        "type": "file",
+        "size": 21537
+    },
+    {
+        "name": "bdist_wininst.py",
+        "parent": "command",
+        "type": "file",
+        "size": 16030
+    },
+    {
+        "name": "build.py",
+        "parent": "command",
+        "type": "file",
+        "size": 5773
+    },
+    {
+        "name": "build_clib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 8022
+    },
+    {
+        "name": "build_ext.py",
+        "parent": "command",
+        "type": "file",
+        "size": 31683
+    },
+    {
+        "name": "build_py.py",
+        "parent": "command",
+        "type": "file",
+        "size": 16495
+    },
+    {
+        "name": "build_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 5963
+    },
+    {
+        "name": "check.py",
+        "parent": "command",
+        "type": "file",
+        "size": 5637
+    },
+    {
+        "name": "clean.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2776
+    },
+    {
+        "name": "config.py",
+        "parent": "command",
+        "type": "file",
+        "size": 13117
+    },
+    {
+        "name": "install.py",
+        "parent": "command",
+        "type": "file",
+        "size": 27935
+    },
+    {
+        "name": "install_data.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2822
+    },
+    {
+        "name": "install_egg_info.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2603
+    },
+    {
+        "name": "install_headers.py",
+        "parent": "command",
+        "type": "file",
+        "size": 1298
+    },
+    {
+        "name": "install_lib.py",
+        "parent": "command",
+        "type": "file",
+        "size": 8397
+    },
+    {
+        "name": "install_scripts.py",
+        "parent": "command",
+        "type": "file",
+        "size": 2017
+    },
+    {
+        "name": "py37compat.py",
+        "parent": "command",
+        "type": "file",
+        "size": 671
+    },
+    {
+        "name": "register.py",
+        "parent": "command",
+        "type": "file",
+        "size": 11712
+    },
+    {
+        "name": "sdist.py",
+        "parent": "command",
+        "type": "file",
+        "size": 19005
+    },
+    {
+        "name": "upload.py",
+        "parent": "command",
+        "type": "file",
+        "size": 7597
+    },
+    {
+        "name": "__init__.py",
+        "parent": "command",
+        "type": "file",
+        "size": 799
+    },
+    {
+        "name": "__pycache__",
+        "parent": "command",
+        "type": "directory",
+        "size": 162220
+    },
+    {
+        "name": "bdist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3632
+    },
+    {
+        "name": "bdist_dumb.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3615
+    },
+    {
+        "name": "bdist_msi.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 19797
+    },
+    {
+        "name": "bdist_rpm.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12252
+    },
+    {
+        "name": "bdist_wininst.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8572
+    },
+    {
+        "name": "build.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3904
+    },
+    {
+        "name": "build_clib.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4827
+    },
+    {
+        "name": "build_ext.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16239
+    },
+    {
+        "name": "build_py.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9822
+    },
+    {
+        "name": "build_scripts.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3987
+    },
+    {
+        "name": "check.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4936
+    },
+    {
+        "name": "clean.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2109
+    },
+    {
+        "name": "config.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10239
+    },
+    {
+        "name": "install.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 14202
+    },
+    {
+        "name": "install_data.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2312
+    },
+    {
+        "name": "install_egg_info.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3047
+    },
+    {
+        "name": "install_headers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1737
+    },
+    {
+        "name": "install_lib.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5109
+    },
+    {
+        "name": "install_scripts.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2160
+    },
+    {
+        "name": "py37compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1003
+    },
+    {
+        "name": "register.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8480
+    },
+    {
+        "name": "sdist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 14507
+    },
+    {
+        "name": "upload.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5230
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 502
+    },
+    {
+        "name": "archive_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6614
+    },
+    {
+        "name": "bcppcompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6525
+    },
+    {
+        "name": "ccompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 33431
+    },
+    {
+        "name": "cmd.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13953
+    },
+    {
+        "name": "config.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3556
+    },
+    {
+        "name": "core.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6681
+    },
+    {
+        "name": "cygwinccompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8761
+    },
+    {
+        "name": "debug.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 223
+    },
+    {
+        "name": "dep_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2743
+    },
+    {
+        "name": "dir_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5844
+    },
+    {
+        "name": "dist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 34414
+    },
+    {
+        "name": "errors.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5279
+    },
+    {
+        "name": "extension.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6944
+    },
+    {
+        "name": "fancy_getopt.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10652
+    },
+    {
+        "name": "filelist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 10802
+    },
+    {
+        "name": "file_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6010
+    },
+    {
+        "name": "log.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2342
+    },
+    {
+        "name": "msvc9compiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 17539
+    },
+    {
+        "name": "msvccompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 14734
+    },
+    {
+        "name": "py35compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 599
+    },
+    {
+        "name": "py38compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 394
+    },
+    {
+        "name": "spawn.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2870
+    },
+    {
+        "name": "sysconfig.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12554
+    },
+    {
+        "name": "text_file.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8468
+    },
+    {
+        "name": "unixccompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 6816
+    },
+    {
+        "name": "util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 14208
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7368
+    },
+    {
+        "name": "versionpredicate.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5152
+    },
+    {
+        "name": "_msvccompiler.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13782
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 427
+    },
+    {
+        "name": "ordered_set.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 15130
+    },
+    {
+        "name": "pyparsing.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 232055
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_vendor",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "name": "more_itertools",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 262430
+    },
+    {
+        "name": "packaging",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 177810
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_vendor",
+        "type": "directory",
+        "size": 217818
+    },
+    {
+        "name": "more.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 117968
+    },
+    {
+        "name": "recipes.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 16256
+    },
+    {
+        "name": "__init__.py",
+        "parent": "more_itertools",
+        "type": "file",
+        "size": 82
+    },
+    {
+        "name": "__pycache__",
+        "parent": "more_itertools",
+        "type": "directory",
+        "size": 128124
+    },
+    {
+        "name": "more.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 109983
+    },
+    {
+        "name": "recipes.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 17903
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 238
+    },
+    {
+        "name": "markers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 8493
+    },
+    {
+        "name": "requirements.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4700
+    },
+    {
+        "name": "specifiers.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 30964
+    },
+    {
+        "name": "tags.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 15710
+    },
+    {
+        "name": "utils.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4200
+    },
+    {
+        "name": "version.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 14665
+    },
+    {
+        "name": "_manylinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 11488
+    },
+    {
+        "name": "_musllinux.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 4378
+    },
+    {
+        "name": "_structures.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 1629
+    },
+    {
+        "name": "__about__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 661
+    },
+    {
+        "name": "__init__.py",
+        "parent": "packaging",
+        "type": "file",
+        "size": 497
+    },
+    {
+        "name": "__pycache__",
+        "parent": "packaging",
+        "type": "directory",
+        "size": 80425
+    },
+    {
+        "name": "markers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9433
+    },
+    {
+        "name": "requirements.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3954
+    },
+    {
+        "name": "specifiers.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 22184
+    },
+    {
+        "name": "tags.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 12252
+    },
+    {
+        "name": "utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3585
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 13126
+    },
+    {
+        "name": "_manylinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7268
+    },
+    {
+        "name": "_musllinux.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4583
+    },
+    {
+        "name": "_structures.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3056
+    },
+    {
+        "name": "__about__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 564
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 420
+    },
+    {
+        "name": "ordered_set.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 16351
+    },
+    {
+        "name": "pyparsing.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 201310
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 157
+    },
+    {
+        "name": "archive_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5783
+    },
+    {
+        "name": "build_meta.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 9378
+    },
+    {
+        "name": "config.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 20795
+    },
+    {
+        "name": "depends.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5218
+    },
+    {
+        "name": "dep_util.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 826
+    },
+    {
+        "name": "dist.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 36413
+    },
+    {
+        "name": "errors.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1471
+    },
+    {
+        "name": "extension.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1913
+    },
+    {
+        "name": "glob.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3663
+    },
+    {
+        "name": "installer.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2968
+    },
+    {
+        "name": "launch.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 870
+    },
+    {
+        "name": "monkey.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 4582
+    },
+    {
+        "name": "msvc.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 42808
+    },
+    {
+        "name": "namespaces.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 3569
+    },
+    {
+        "name": "package_index.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 32605
+    },
+    {
+        "name": "py34compat.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 449
+    },
+    {
+        "name": "sandbox.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 15725
+    },
+    {
+        "name": "unicode_utils.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 1083
+    },
+    {
+        "name": "version.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 293
+    },
+    {
+        "name": "wheel.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 7249
+    },
+    {
+        "name": "windows_support.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 992
+    },
+    {
+        "name": "_deprecation_warning.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 519
+    },
+    {
+        "name": "_imp.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 2054
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 8509
+    },
+    {
+        "name": "entry_points.txt",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 2636
+    },
+    {
+        "name": "INSTALLER",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 4
+    },
+    {
+        "name": "LICENSE",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 1050
+    },
+    {
+        "name": "METADATA",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 4977
+    },
+    {
+        "name": "RECORD",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 23044
+    },
+    {
+        "name": "top_level.txt",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 41
+    },
+    {
+        "name": "WHEEL",
+        "parent": "setuptools-59.1.0.dist-info",
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "override.py",
+        "parent": "_distutils_hack",
+        "type": "file",
+        "size": 44
+    },
+    {
+        "name": "__init__.py",
+        "parent": "_distutils_hack",
+        "type": "file",
+        "size": 3688
+    },
+    {
+        "name": "__pycache__",
+        "parent": "_distutils_hack",
+        "type": "directory",
+        "size": 5279
+    },
+    {
+        "name": "override.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 205
+    },
+    {
+        "name": "__init__.cpython-39.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": 5074
+    },
+    {
+        "name": "activate",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 1965
+    },
+    {
+        "name": "activate.bat",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 957
+    },
+    {
+        "name": "Activate.ps1",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 19408
+    },
+    {
+        "name": "deactivate.bat",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 368
+    },
+    {
+        "name": "pip.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 106350
+    },
+    {
+        "name": "pip3.9.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 106350
+    },
+    {
+        "name": "pip3.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 106350
+    },
+    {
+        "name": "python.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 543464
+    },
+    {
+        "name": "pythonw.exe",
+        "parent": "Scripts",
+        "type": "file",
+        "size": 542440
+    }
+]
