@@ -1,6 +1,6 @@
 class Animal:
     def __init__(self, name, age):
-        self.name = name.capitalize()
+        self.name = name
         self.age = age
 
     def __str__(self) -> str:
@@ -12,8 +12,6 @@ class Animal:
 class Dog(Animal):
     def __init__(self, name: str, age: int, color: str, breed: str, is_domestic: bool = True) -> None:
         super().__init__(name, age)
-        self.name = name.capitalize()
-        self.age = age
         self.color = color
         self.breed = breed
         self.is_domestic = is_domestic
