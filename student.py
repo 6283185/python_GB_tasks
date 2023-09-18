@@ -60,14 +60,14 @@ class Student:
             if number < 2 or number > 5:
                 raise ValueError("Оценка должна быть от 2 до 5")
             self.lessons["lessons"][lesson]["assessments"].append(number)
-            self.lessons["middle_assessment"] = self.calculate_middle_estimate(self.lessons)
+            self.lessons["middle_assessment"] = round(self.calculate_middle_estimate(self.lessons), 2)
         elif type_est == "test":
             if number < 0 or number > 100:
                 raise ValueError("Оценка должна быть от 0 до 100")
             self.lessons["lessons"][lesson]["test_results"].append(number)
 
             # средний бал по тестам по каждому предмету:
-            self.lessons["lessons"][lesson]["average_test"] = reduce(lambda x, y: x + y, self.lessons["lessons"][lesson]["test_results"]) / len(self.lessons["lessons"][lesson]["test_results"])
+            self.lessons["lessons"][lesson]["average_test"] = round(reduce(lambda x, y: x + y, self.lessons["lessons"][lesson]["test_results"]) / len(self.lessons["lessons"][lesson]["test_results"]), 2)
             self.lessons['middle_test'] = self.calculate_middle_test(self.lessons)
 
     @staticmethod
@@ -102,8 +102,8 @@ class Student:
 
 
 if __name__ == '__main__':
-    student_1 = Student("Alexey", "Alexeevich", "Nesterov", Path('lessons.csv'))
-    student_1("русский язык", 3)
+    student_1 = Student("Dmitriy", "Igorevich", "Chernyshov", Path('lessons.csv'))
+    student_1("русский язык", 5)
     student_1("русский язык", 5)
     student_1("физика", 5)
     student_1("математика", 5)
@@ -115,7 +115,7 @@ if __name__ == '__main__':
     student_1("информатика", 40, "test")
     print(student_1)
 
-    student_2 = Student("Ivan", "Ivanjvich", "Ivanov", Path('lessons.csv'))
+    student_2 = Student("Ivan", "Ivanovich", "Ivanov", Path('lessons.csv'))
     student_2("русский язык", 4)
     student_2("история", 5)
     student_2("физика", 3)
