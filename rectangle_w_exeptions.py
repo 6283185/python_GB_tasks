@@ -4,11 +4,11 @@
 
 '''
 
-from  import ValError
+from exeptions.rectangle_exeptions import ValError
 
 class Rectangle:
 
-    def __init__(self, side_a: float, side_b: float | None =None):
+    def __init__(self, side_a: float, side_b: float):
         self._side_a = side_a
         self._side_b = side_b if side_b else side_a
 
@@ -33,44 +33,17 @@ class Rectangle:
 
 
 if __name__ == '__main__':
-    flag = False
-    while True:
-        if flag:
-            choise = input("1 - выход\n2 - продолжить\n")
-            if choise == '1':
-                break
-        flag = True
+    try:
+        a_1, a_2 = (float(i) for i in input('Введите стороны прямоугольника через пробел: ').split())
 
-        try:
-            a_1 = float(input('введите первую сторону первого прямоугольника '))
-            b_1 = float(input('введите стороны второго прямоугольника '))
-            a_2 = float(input('введите первую сторону первого прямоугольника '))
-            b_2 = float(input('введите стороны второго прямоугольника'))
-        except ValueError as e:
-            print(f"\nНеправильный формат ввода данных: {e}.\nПо умолчанию приняты все стороны прямоугольников = 1\n")
-            a_1 = a_2 = b_1 = b_2 = 1
 
-        if a_1 <= 0 or b_1 <= 0:
-            raise ValError(a_1, b_1)
-        if a_2 <= 0 or b_2 <= 0:
-            raise ValError(a_2, b_2)
+    except ValueError as e:
+        print(f"\nНеправильный формат ввода данных: {e}.\nПо умолчанию стороны прямоугольника равны.\n")
+        if a_1 <= 0 or a_2 <= 0:
+            raise ValError(a_1, a_2)
 
-        rectangle_1 = Rectangle(a_1, b_1)
-        print(f'{rectangle_1.get_perimeter() = },  {rectangle_1.get_area() = }')
-        rectangle_2 = Rectangle(a_2, b_2)
-        print(f'{rectangle_2.get_perimeter() = },  {rectangle_2.get_area() = }')
-        choise = input("Выберите опреации над прямоугольниками\n1 - сложение\n2 - вычитание\n3 - выход\n")
-        match choise:
-            case '1':
-                rectangle_3 = rectangle_1 + rectangle_2
-                print(rectangle_3)
-
-            case '2':
-                rectangle_3 = rectangle_1 - rectangle_2
-                print(rectangle_3)
-            case _:
-                break
-
+    rectangle_1 = Rectangle(a_1, a_2)
+    print(f'{rectangle_1.get_perimeter() = },  {rectangle_1.get_area() = }')
 
 
 
